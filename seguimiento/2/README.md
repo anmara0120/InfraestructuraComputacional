@@ -57,3 +57,4 @@ Comprimo contenido del archivo de directorio de estudiantes con el comando zip -
 Creo un alias para eliminar clave del usuario diana
 ![image](https://user-images.githubusercontent.com/105672800/172033747-39be218f-28c7-4cce-b177-fd2bc9a513ee.png)
 
+
